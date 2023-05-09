@@ -1,0 +1,13 @@
+name = "Extended Tools"
+filename = "Extended Tools-1.19.2-0.4.1-0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b99e0f05e5da3a593f3cc9ed06b877c028b9a28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4415535
+project-id = 451412

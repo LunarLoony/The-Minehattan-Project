@@ -1,0 +1,13 @@
+name = "Basic Nether Ores [Forge/Fabric]"
+filename = "BasicNetherOres-1.19.2-8.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1412f9dbc5f728cda60f8f1206dac3c85df57a7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3940673
+project-id = 289647
