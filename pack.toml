@@ -1,0 +1,13 @@
+name = "The Minehattan Project"
+author = "LunarLoony"
+version = "5.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d4fee6f921e8034fdd8c68e9b494347ad422265ff7890073cf42718d678c64be"
+
+[versions]
+forge = "43.2.10"
+minecraft = "1.19.2"
