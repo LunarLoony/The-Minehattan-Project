@@ -1,0 +1,13 @@
+name = "Nuclear Science"
+filename = "Nuclear Science-1.19.2-0.5.2-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6f896c5bb88d4ce2eea89c7add34f82777cc00e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4490543
+project-id = 318646

@@ -1,0 +1,13 @@
+name = "Landmines"
+filename = "landmines-1.0.6-forge-mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umx3sWHn/versions/XWm4lCpn/landmines-1.0.6-forge-mc1.19.jar"
+hash-format = "sha1"
+hash = "990fb61f7ab7b47f2536d52ac5bd7842c72568de"
+
+[update]
+[update.modrinth]
+mod-id = "umx3sWHn"
+version = "XWm4lCpn"

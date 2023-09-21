@@ -1,0 +1,13 @@
+name = "NABBA"
+filename = "nabba-1.19.2-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "046b5987ff3dd83fb3e27215f3fac6966f883bae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4147112
+project-id = 725769

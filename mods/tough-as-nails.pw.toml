@@ -1,0 +1,13 @@
+name = "Tough As Nails"
+filename = "ToughAsNails-1.19-8.0.0.78.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b5eee39140b060986e8c61f811a60708e30a206"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3871450
+project-id = 246391
