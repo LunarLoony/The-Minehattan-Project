@@ -1,0 +1,13 @@
+name = "Player Plates (Obsidian Plates)"
+filename = "playerplates-forge-2.0.0-build.19+mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ADYYN3JG/versions/OjX9Qa4z/playerplates-forge-2.0.0-build.19%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "b52379ffed2c1ce10daaa4f8ab0c1b7eddf801b5"
+
+[update]
+[update.modrinth]
+mod-id = "ADYYN3JG"
+version = "OjX9Qa4z"

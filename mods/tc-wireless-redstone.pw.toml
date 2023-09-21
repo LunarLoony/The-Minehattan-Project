@@ -1,13 +1,13 @@
-name = "Wireless-Redstone"
+name = "TC Wireless Redstone"
 filename = "TC-Redstone-1.19.2-3.1.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/rMlghquR/versions/BpjUIDC1/TC-Redstone-1.19.2-3.1.2.jar"
 hash-format = "sha1"
 hash = "dc60cb54d3793f4336d44e0228a93e1e012b2efc"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4386079
-project-id = 503143
+[update.modrinth]
+mod-id = "rMlghquR"
+version = "BpjUIDC1"

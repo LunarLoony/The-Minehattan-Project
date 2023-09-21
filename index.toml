@@ -325,18 +325,13 @@ hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
-metafile = true
-
-[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "8e268847abdbca3537274c363bd0573711275aecf4009316dd3f94ee84d08a96"
 metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
-hash = "03eda3cb7e6a184e591d5853b12125a8b26634363ebfd00f069f177bbe190421"
+hash = "b3142a5c8fcb9dc49628a16892687d0e5d67e595355d0827dd76be0e80635241"
 metafile = true
 
 [[files]]
@@ -357,6 +352,16 @@ metafile = true
 [[files]]
 file = "mods/landmines.pw.toml"
 hash = "d043e695e50e4c5b64fb2e446df011ed12a0330d6e8a1500c240fa7a8dff7ba8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "f84cc47a018d9f48cc5ae88e02dc48dbafec3dda898afdb8abb6e919675f9d7f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
 metafile = true
 
 [[files]]
@@ -396,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
+hash = "01a057038ff0001c216ed30504059aa681151010aa9b2810214e166de1da61a8"
 metafile = true
 
 [[files]]
@@ -416,12 +421,12 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
 metafile = true
 
 [[files]]
-file = "mods/player-plates-forge.pw.toml"
-hash = "88fc1b51ded5c9d81f71b988dde723da53ba2046830b83a9e8ce75f5e63b5c5d"
+file = "mods/player-plates-(obsidian-plates).pw.toml"
+hash = "74aec3f4794f40dda5906d173cc0d75fe840866dfdb0803c082cd9035f1043f8"
 metafile = true
 
 [[files]]
@@ -451,12 +456,12 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage-addons.pw.toml"
-hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
+hash = "ced16dd96e4f655adabbfe81d44d5012d2ddbe26e94a688fc04bd9d7eb83e116"
 metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "7c0f5c7e3bbb3607a6d6382409274a95acdf050192dd355a0bab2b457abc3868"
+hash = "877f57287dc079b18cfd7ae698027a59dd14083d758a620b88503f4768e451a5"
 metafile = true
 
 [[files]]
@@ -476,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/rs-requestify.pw.toml"
-hash = "d915c31f85d2d02bb621831a8a733b36ef0e7379303ce8fda6ca1d6baabdd8cb"
+hash = "fedfc2b6da1d3b0f54a2b92da3712299fc9c971082abc1e5971d1aa5bf291a87"
 metafile = true
 
 [[files]]
@@ -496,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc-wireless-redstone.pw.toml"
-hash = "8b6332b8891d8dbac8ad43a489d21cbb61efb06a392246d0d5dc44f7b3a9b42b"
+hash = "68116900e75942d046efdb8e3bf251cb31e5582ef1512a8a7110ec73c2ff5287"
 metafile = true
 
 [[files]]
@@ -541,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "0d59965134e837bc8d4c3a8b43788b493317070cc00f61de7beef0764981857a"
+hash = "3b881101a79a03c80da2b64762613aa79273b7f05560db23cd08646e62783bea"
 metafile = true
 
 [[files]]
@@ -556,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/wireless-chargers.pw.toml"
-hash = "019987ced8680057811d520366ac20a86de9fc8d70390c2aa98f4d36937ae543"
+hash = "1751c340422573b8e707710ceb1b412a6db6c1d4c3aeacf913f74202fc21b41a"
 metafile = true
 
 [[files]]

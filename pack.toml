@@ -1,12 +1,12 @@
 name = "The Minehattan Project"
 author = "LunarLoony"
-version = "5.0.1"
+version = "5.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c28b1144e7278099ce7226557c807474d99c292d92984db0d392643053c4578f"
+hash = "5a1c438686093c9b8f714c83e2043687783c7348984c973f5215954b5a725e35"
 
 [versions]
 forge = "43.2.23"

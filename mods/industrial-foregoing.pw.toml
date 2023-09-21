@@ -3,11 +3,11 @@ filename = "industrial-foregoing-1.19.2-3.3.2.3-5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/lWxpUd04/versions/fZMC747p/industrial-foregoing-1.19.2-3.3.2.3-5.jar"
 hash-format = "sha1"
 hash = "c8dad8b1dc279153418d71bed38ab8548870bab4"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4459182
-project-id = 266515
+[update.modrinth]
+mod-id = "lWxpUd04"
+version = "fZMC747p"
