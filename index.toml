@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "7f447c7cdf18d3e1378a4c86bb59381ff93981c7737d2c0f36308c9ab927e621"
+hash = "1a0def343336948a500f09414e21bd324eec8a30dd17422a1fefda8380dcac38"
 metafile = true
 
 [[files]]
@@ -317,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "bf168e3d77a194cd21afcd67a302bd3b98f9b2a95b592a77b888f345dd7527f6"
 metafile = true
 
 [[files]]
@@ -511,37 +516,37 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-cultivation.pw.toml"
-hash = "3c066f571719d9e5b1b63c6efd49bf1bf2ab93386e33612ab2b991752ff7b31b"
+hash = "efe4e5faaa2654b43eab5a52ceb53c2e1a85e26fc472873240d1cb643628a1ca"
 metafile = true
 
 [[files]]
 file = "mods/thermal-dynamics.pw.toml"
-hash = "6d0cc24dc10be439bfc71d1cdee43e46230bfc82bfb840b1d238995af5e7d910"
+hash = "046ac30bb218b0e300fbf9e3e817c386edb29ce761210842bd85c0293935fe49"
 metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "7b2ba7c6b0421a4c480bb42b7e201dd32e8d4c9104544df9a27ca79e036877d9"
+hash = "48456e931dc6f986efe9bde63c76f0014a2017ef4adcaa168597a7610ae4be46"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "6967a82e80b8847ba2888cd814166c04a1140c013e8dfc21ddb07afec7160326"
+hash = "497c2d750f8a205866b65bf1148423d3025b4c037cb34116725c94313a385f0b"
 metafile = true
 
 [[files]]
 file = "mods/thermal-innovation.pw.toml"
-hash = "2bfef29ed2bfe496a86c37cac8f1ad0d15ff2a13988bd35ac2cf54b340d4ea7a"
+hash = "38d56b7239c363af2bc57d44c365256c1ed8ec8bf7c55610352fab21dfbaa4d1"
 metafile = true
 
 [[files]]
 file = "mods/thermal-integration.pw.toml"
-hash = "cb63200247514a68c4aaeda55370e8dbb11f2593b8be56587887edca4136ae21"
+hash = "b7405d5625b7967e6a950647f9a77cb26b909827e7cb1cdd4927d2c3d007b5a5"
 metafile = true
 
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
-hash = "723ab48d700ab75d2a2d13e08dcdd57955b1def406d8bf7c150475b0c7331358"
+hash = "c4fd78c629d2a66713a7fb8505ca5dabaf73d14e50adf6ff5edebd5d81a92ca7"
 metafile = true
 
 [[files]]
@@ -566,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e3ec3bc8bcee0a23cd3d655a5632eee71085b549ad8525703b8002e9e7e30774"
+hash = "a828f6eadd630d090ab72f87fffa93574050b94f079c8fd361af1ddc2fd64d7d"
 metafile = true
 
 [[files]]

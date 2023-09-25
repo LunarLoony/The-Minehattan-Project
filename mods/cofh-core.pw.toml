@@ -3,11 +3,11 @@ filename = "cofh_core-1.19.2-10.3.0.46.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OWSRM4vD/versions/LLFWn75q/cofh_core-1.19.2-10.3.0.46.jar"
 hash-format = "sha1"
 hash = "0b843fe47858bbef41c2c4ca10bc71b50998bb84"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "OWSRM4vD"
-version = "LLFWn75q"
+[update.curseforge]
+file-id = 4759876
+project-id = 69162

@@ -3,11 +3,11 @@ filename = "thermal_cultivation-1.19.2-10.3.0.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5beJoehw/versions/30AsnE6f/thermal_cultivation-1.19.2-10.3.0.19.jar"
 hash-format = "sha1"
 hash = "afb0eb56575496154c67b471fe88f1c966bcd16a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "5beJoehw"
-version = "30AsnE6f"
+[update.curseforge]
+file-id = 4759902
+project-id = 271835
