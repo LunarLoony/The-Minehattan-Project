@@ -1,13 +1,13 @@
 name = "Comforts"
-filename = "comforts-forge-6.0.5+1.19.2.jar"
+filename = "comforts-forge-6.0.7+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SaCpeal4/versions/eny6SErU/comforts-forge-6.0.5%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/4xI610Ck/comforts-forge-6.0.7%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "452cd08beeb8c472d793f052c0ded141880953c9"
+hash = "f056d216add336bdd5a42806df8731e6f08a4f4f"
 
 [update]
 [update.modrinth]
 mod-id = "SaCpeal4"
-version = "eny6SErU"
+version = "4xI610Ck"

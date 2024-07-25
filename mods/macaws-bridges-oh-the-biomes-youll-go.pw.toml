@@ -1,13 +1,13 @@
 name = "Macaw's Bridges - Oh The Biomes You'll Go"
-filename = "macawsbridgesbyg-1.19.2-1.3.jar"
+filename = "macawsbridgesbyg-1.19.2-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s4B19O5h/versions/NwaMiFIr/macawsbridgesbyg-1.19.2-1.3.jar"
+url = "https://cdn.modrinth.com/data/s4B19O5h/versions/k5FLOgSt/macawsbridgesbyg-1.19.2-1.4.jar"
 hash-format = "sha1"
-hash = "e712685c3cc0489d38b913af6410950164c01041"
+hash = "b1bc30302ee4b475ca0dfb514c1ba7ac95a28f54"
 
 [update]
 [update.modrinth]
 mod-id = "s4B19O5h"
-version = "NwaMiFIr"
+version = "k5FLOgSt"

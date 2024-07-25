@@ -1,13 +1,13 @@
 name = "Blastcraft mod"
-filename = "Blastcraft-1.19.2-0.3.2-2.jar"
+filename = "Blastcraft-1.19.2-0.3.3-0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "064a19fa7e59627f5a590145d9caf6d46e501a91"
+hash = "97e877a483760a20e8eb9aad5fa7cd8e80a72ae5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4490552
+file-id = 5022892
 project-id = 405322

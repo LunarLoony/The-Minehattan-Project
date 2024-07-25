@@ -5,5 +5,5 @@
 	#Enable or disable hand drinking.
 	enable_hand_drinking = true
 	#Enable or disable temperature.
-	enable_temperature = true
+	enable_temperature = false
 

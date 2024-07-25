@@ -1,13 +1,13 @@
 name = "Landmines"
-filename = "landmines-1.0.6-forge-mc1.19.jar"
+filename = "landmines-1.0.7-forge-mc1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/umx3sWHn/versions/XWm4lCpn/landmines-1.0.6-forge-mc1.19.jar"
+url = "https://cdn.modrinth.com/data/umx3sWHn/versions/HDeSm6Cb/landmines-1.0.7-forge-mc1.19.jar"
 hash-format = "sha1"
-hash = "990fb61f7ab7b47f2536d52ac5bd7842c72568de"
+hash = "8b673cc94a2ec864ce5065db75785091ecd2e104"
 
 [update]
 [update.modrinth]
 mod-id = "umx3sWHn"
-version = "XWm4lCpn"
+version = "HDeSm6Cb"
